@@ -40,6 +40,10 @@ p {
   text-align: center;
 }
 
+.corazon{
+  filter: invert(1);
+}
+
 .mt {
   margin-top: 40px;
 }
